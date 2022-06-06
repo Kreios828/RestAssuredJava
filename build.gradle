@@ -58,6 +58,12 @@ task api(type: Test) {
     }
 }
 
+task web(type: Test) {
+    filter {
+        includeTestsMatching('web*')
+    }
+}
+
 task rest(type: Test) {
     useJUnitPlatform{
         includeTags("rest")
