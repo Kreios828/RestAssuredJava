@@ -1,0 +1,11 @@
+[ {
+  "uid" : "4871ca81149d8e0a",
+  "name" : "Проверка курса доллара",
+  "time" : {
+    "start" : 1650269461818,
+    "stop" : 1650269470364,
+    "duration" : 8546
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

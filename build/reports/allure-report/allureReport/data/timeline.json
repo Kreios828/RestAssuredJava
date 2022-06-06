@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "kreios-Aspire-E1-570G",
+    "children" : [ {
+      "name" : "12452@kreios-Aspire-E1-570G.Test worker(12)",
+      "children" : [ {
+        "name" : "Проверка курса доллара",
+        "uid" : "4871ca81149d8e0a",
+        "parentUid" : "0515196c820cdb7b72073139bddfe6a6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1650269461818,
+          "stop" : 1650269470364,
+          "duration" : 8546
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0515196c820cdb7b72073139bddfe6a6"
+    } ],
+    "uid" : "7e1ec0512b9bc1619c13964865db0b90"
+  } ]
+}

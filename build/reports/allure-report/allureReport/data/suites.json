@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "api.CbrTest",
+    "children" : [ {
+      "name" : "Проверка курса доллара",
+      "uid" : "4871ca81149d8e0a",
+      "parentUid" : "c14b2c6a00096001502bf332ad91ac38",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650269461818,
+        "stop" : 1650269470364,
+        "duration" : 8546
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "c14b2c6a00096001502bf332ad91ac38"
+  } ]
+}
